@@ -1,0 +1,4 @@
+/* PhoneWorker.css */
+.phone-loading { color: var(--text-muted); font-size: 13px; text-align: center; padding: 8px; }
+.phone-error   { color: var(--accent-red);  font-size: 13px; text-align: center; padding: 8px;
+                 background: rgba(239,68,68,0.1); border-radius: 8px; }

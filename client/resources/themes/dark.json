@@ -1,0 +1,20 @@
+{
+  "name": "dark",
+  "tokens": {
+    "--app-bg":           "#0a0e1a",
+    "--surface-primary":  "#111827",
+    "--surface-secondary":"#1a2235",
+    "--surface-card":     "#1e2a3a",
+    "--surface-hover":    "#243042",
+    "--accent-color":     "#00b4d8",
+    "--accent-secondary": "#0077b6",
+    "--accent-green":     "#10b981",
+    "--accent-red":       "#ef4444",
+    "--accent-orange":    "#f59e0b",
+    "--text-primary":     "#f0f4f8",
+    "--text-secondary":   "#94a3b8",
+    "--text-muted":       "#64748b",
+    "--border-color":     "#2d3748",
+    "--shadow":           "0 4px 24px rgba(0,0,0,0.4)"
+  }
+}
